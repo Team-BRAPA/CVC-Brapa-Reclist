@@ -392,12 +392,12 @@ _z_un_z_un_z	zun zun z
 _z_ax_z_ax_z	zax zax z
 _z_ae_z_ae_z	zae zae z
 
-_a_rh_k_a_rh
-_e_rh_k_e_rh
-_i_rh_k_i_rh
-_o_rh_k_o_rh
-_u_rh_k_u_rh
-_eh_rh_k_eh_rh
-_oh_rh_k_oh_rh
-_ax_rh_k_ax_rh
-_ae_rh_k_ae_rh
+_a_rh_k_a_rh	arh karh
+_e_rh_k_e_rh	erh kerh
+_i_rh_k_i_rh	irh kirh
+_o_rh_k_o_rh	orh korh
+_u_rh_k_u_rh	urh kurh
+_eh_rh_k_eh_rh	ehrh kehrh
+_oh_rh_k_oh_rh	ohrh kohrh
+_ax_rh_k_ax_rh	axrh kaxrh
+_ae_rh_k_ae_rh	aerh kaerh
