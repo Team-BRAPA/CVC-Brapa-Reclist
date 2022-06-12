@@ -11,4 +11,4 @@ Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf
 **Extra:** Contém arquivos de gravações extras (VV) em 3 e 7 Mora
 
 ## Download
-Você pode fazer o download [clicando aqui](https://github.com/overdramatic/CVC-PTBR-Reclist/releases "Release")
+Você pode fazer o download [clicando aqui](https://github.com/overdramatic/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
