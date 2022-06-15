@@ -1,5 +1,6 @@
 # Lite
-Esta lista contém fonemas mínimos para um voicebank Português Brasileiro, oferece menos suporte a sotaques e fidelidade na pronúncia de outros idiomas se comparada com a lista recomendada, porém é mais fácil de ser gravada.
+Esta lista contém fonemas mínimos para um voicebank Português Brasileiro, oferece menos suporte a sotaques e fidelidade na pronúncia de outros idiomas se comparada com a lista recomendada, porém é mais fácil de ser gravada. Ótimo para pessoas que querem um voicebank focado somente na fonética padrão brasileira.<br/>
+**Obs:** Essa lista não tem suporte aos VVs extras adicionados nesse repositório 
 ## Informações
 - Quantidade de vogais: `12`
 - Quantidade de consoantes: `25`
