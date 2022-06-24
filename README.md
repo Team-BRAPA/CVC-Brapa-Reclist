@@ -10,5 +10,8 @@ Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf
 **Recomendada:** Lista contendo fonemas recomendados para a criação do banco de voz <br/>
 **Extra:** Contém arquivos de gravações extras (VV) em 3 e 7 Mora
 
+## Bancos de Voz Públicos
+* [CVC M01BR- Amarillis](https://github.com/overdramatic/amarilis-cvc-ptbr)
+
 ## Download
 Você pode fazer o download [clicando aqui](https://github.com/overdramatic/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
