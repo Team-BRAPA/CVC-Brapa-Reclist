@@ -1,6 +1,6 @@
 # Recomendada
 Esta lista contém fonemas recomendados para um voicebank Português Brasileiro completo, ele dá suporte a vários sotaques e também a possíbilidade de cantar em outros idiomas com mais fidelidade, se mantendo a par da maneira que a música é cantanda e composta popularmente no Brasil.<br/>
-**Obs:** Esta reclist pode ser gravada junto com a lista extra (VVs) para uma qualidade mais realistica.
+
 ## Informações
 - Quantidade de vogais: `14`
 - Quantidade de consoantes: `28`
