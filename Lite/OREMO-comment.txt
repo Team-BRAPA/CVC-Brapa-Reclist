@@ -10,6 +10,7 @@ _en_-_en	en (glotal) en
 _in_-_in	in (glotal) in
 _on_-_on	on (glotal) on
 _un_-_un	un (glotal) un
+_ax_-_ax	ax (glotal) ax
 
 _b_a_b_a_b	ba ba b
 _b_e_b_e_b	be be b
@@ -23,6 +24,7 @@ _b_en_b_en_b	ben ben b
 _b_in_b_in_b	bin bin b
 _b_on_b_on_b	bon bon b
 _b_un_b_un_b	bun bun b
+_b_ax_b_ax_b	bax bax b
 _ch_a_ch_a_ch	cha cha ch
 _ch_e_ch_e_ch	che che ch
 _ch_i_ch_i_ch	chi chi ch
@@ -35,6 +37,7 @@ _ch_en_ch_en_ch	chen chen ch
 _ch_in_ch_in_ch	chin chin ch
 _ch_on_ch_on_ch	chon chon ch
 _ch_un_ch_un_ch	chun chun ch
+_ch_ax_ch_ax_ch	chax chax ch
 _d_a_d_a_d	da da d
 _d_e_d_e_d	de de d
 _d_i_d_i_d	di di d
@@ -47,6 +50,7 @@ _d_en_d_en_d	den den d
 _d_in_d_in_d	din din d
 _d_on_d_on_d	don don d
 _d_un_d_un_d	dun dun d
+_d_ax_d_ax_d	dax dax d
 _dj_a_dj_a_dj	dja dja dj
 _dj_e_dj_e_dj	dje dje dj
 _dj_i_dj_i_dj	dji dji dj
@@ -59,6 +63,7 @@ _dj_en_dj_en_dj	djen djen dj
 _dj_in_dj_in_dj	djin djin dj
 _dj_on_dj_on_dj	djon djon dj
 _dj_un_dj_un_dj	djun djun dj
+_dj_ax_dj_ax_dj	djax djax dj
 _f_a_f_a_f	fa fa f
 _f_e_f_e_f	fe fe f
 _f_i_f_i_f	fi fi f
@@ -71,6 +76,7 @@ _f_en_f_en_f	fen fen f
 _f_in_f_in_f	fin fin f
 _f_on_f_on_f	fon fon f
 _f_un_f_un_f	fun fun f
+_f_ax_f_ax_f	fax fax f
 _g_a_g_a_g	ga ga g
 _g_e_g_e_g	ge ge g
 _g_i_g_i_g	gi gi g
@@ -83,6 +89,7 @@ _g_en_g_en_g	gen gen g
 _g_in_g_in_g	gin gin g
 _g_on_g_on_g	gon gon g
 _g_un_g_un_g	gun gun g
+_g_ax_g_ax_g	gax gax g
 _h_a_h_a_h	ha ha h
 _h_e_h_e_h	he he h
 _h_i_h_i_h	hi hi h
@@ -95,6 +102,7 @@ _h_en_h_en_h	hen hen h
 _h_in_h_in_h	hin hin h
 _h_on_h_on_h	hon hon h
 _h_un_h_un_h	hun hun h
+_h_ax_h_ax_h	hax hax h
 _j_a_j_a_j	ja ja j
 _j_e_j_e_j	je je j
 _j_i_j_i_j	ji ji j
@@ -107,6 +115,7 @@ _j_en_j_en_j	jeh jeh j
 _j_in_j_in_j	jin jin j
 _j_on_j_on_j	jon jon j
 _j_un_j_un_j	jun jun j
+_j_ax_j_ax_j	jax jax j
 _k_a_k_a_k	ka ka k
 _k_e_k_e_k	ke ke k
 _k_i_k_i_k	ki ki k
@@ -119,6 +128,7 @@ _k_en_k_en_k	ken ken k
 _k_in_k_in_k	kin kin k
 _k_on_k_on_k	kon kon k
 _k_un_k_un_k	kun kun k
+_k_ax_k_ax_k	kax kax k
 _l_a_l_a_l	la la l
 _l_e_l_e_l	le le l
 _l_i_l_i_l	li li l
@@ -131,6 +141,7 @@ _l_en_l_en_l	len len l
 _l_in_l_in_l	lin lin l
 _l_on_l_on_l	lon lon l
 _l_un_l_un_l	lun lun l
+_l_ax_l_ax_l	lax lax l
 _lh_a_lh_a_lh	lha lha lh
 _lh_e_lh_e_lh	lhe lhe lh
 _lh_i_lh_i_lh	lhi lhi lh
@@ -143,6 +154,7 @@ _lh_en_lh_en_lh	lhen lhen lh
 _lh_in_lh_in_lh	lhin lhin lh
 _lh_on_lh_on_lh	lhon lhon lh
 _lh_un_lh_un_lh	lhun lhun lh
+_lh_ax_lh_ax_lh	lhax lhax lh
 _m_a_m_a_m	ma ma m
 _m_e_m_e_m	me me m
 _m_i_m_i_m	mi mi m
@@ -155,6 +167,7 @@ _m_en_m_en_m	men men m
 _m_in_m_in_m	min min m
 _m_on_m_on_m	mon mon m
 _m_un_m_un_m	mun mun m
+_m_ax_m_ax_m	max max m
 _n_a_n_a_n	na na n
 _n_e_n_e_n	ne ne n
 _n_i_n_i_n	ni ni n
@@ -167,6 +180,7 @@ _n_en_n_en_n	nen nen n
 _n_in_n_in_n	nin nin n
 _n_on_n_on_n	non non n
 _n_un_n_un_n	nun nun n
+_n_ax_n_ax_n	nax nax n
 _nh_a_nh_a_nh	nha nha nh
 _nh_e_nh_e_nh	nhe nhe nh
 _nh_i_nh_i_nh	nhi nhi nh
@@ -179,6 +193,7 @@ _nh_en_nh_en_nh	nhen nhen nh
 _nh_in_nh_in_nh	nhin nhin nh
 _nh_on_nh_on_nh	nhon nhon nh
 _nh_un_nh_un_nh	nhun nhun nh
+_nh_ax_nh_ax_nh	nhax nhax nh
 _p_a_p_a_p	pa pa p
 _p_e_p_e_p	pe pe p
 _p_i_p_i_p	pi pi p
@@ -191,6 +206,7 @@ _p_en_p_en_p	pen pen p
 _p_in_p_in_p	pin pin p
 _p_on_p_on_p	pon pon p
 _p_un_p_un_p	pun pun p
+_p_ax_p_ax_p	pax pax p
 _r_a_r_a_r	ra ra r
 _r_e_r_e_r	re re r
 _r_i_r_i_r	ri ri r
@@ -203,18 +219,7 @@ _r_en_r_en_r	ren ren r
 _r_in_r_in_r	rin rin r
 _r_on_r_on_r	ron ron r
 _r_un_r_un_r	run run r
-_rr_a_rr_a_rr	rra rra rr
-_rr_e_rr_e_rr	rre rre rr
-_rr_i_rr_i_rr	rri rri rr
-_rr_o_rr_o_rr	rro rro rr
-_rr_u_rr_u_rr	rru rru rr
-_rr_eh_rr_eh_rr	rreh rreh rr
-_rr_oh_rr_oh_rr	rroh rroh rr
-_rr_an_rr_an_rr	rran rran rr
-_rr_en_rr_en_rr	rren rren rr
-_rr_in_rr_in_rr	rrin rrin rr
-_rr_on_rr_on_rr	rron rron rr
-_rr_un_rr_un_rr	rrun rrun rr
+_r_ax_r_ax_r	rax rax r
 _s_a_s_a_s	sa sa s
 _s_e_s_e_s	se se s
 _s_i_s_i_s	si si s
@@ -227,6 +232,7 @@ _s_en_s_en_s	sen sen s
 _s_in_s_in_s	sin sin s
 _s_on_s_on_s	son son s
 _s_un_s_un_s	sun sun s
+_s_ax_s_ax_s	sax sax s
 _sh_a_sh_a_sh	sha sha sh
 _sh_e_sh_e_sh	she she sh
 _sh_i_sh_i_sh	shi shi sh
@@ -239,6 +245,7 @@ _sh_en_sh_en_sh	shen shen sh
 _sh_in_sh_in_sh	shin shin sh
 _sh_on_sh_on_sh	shon shon sh
 _sh_un_sh_un_sh	shun shun sh
+_sh_ax_sh_ax_sh	shax shax sh
 _t_a_t_a_t	ta ta t
 _t_e_t_e_t	te te t
 _t_i_t_i_t	ti ti t
@@ -251,6 +258,7 @@ _t_en_t_en_t	ten ten t
 _t_in_t_in_t	tin tin t
 _t_on_t_on_t	ton ton t
 _t_un_t_un_t	tun tun t
+_t_ax_t_ax_t	tax tax t
 _v_a_v_a_v	va va v
 _v_e_v_e_v	ve ve v
 _v_i_v_i_v	vi vi v
@@ -263,6 +271,7 @@ _v_en_v_en_v	ven ven v
 _v_in_v_in_v	vin vin v
 _v_on_v_on_v	von von v
 _v_un_v_un_v	vun vun v
+_v_ax_v_ax_v	vax vax v
 _w_a_w_a_w	wa wa w
 _w_e_w_e_w	we we w
 _w_i_w_i_w	wi wi w
@@ -275,6 +284,7 @@ _w_en_w_en_w	wen wen w
 _w_in_w_in_w	win win w
 _w_on_w_on_w	won won w
 _w_un_w_un_w	wun wun w
+_w_ax_w_ax_w	wax wax w
 _x_a_x_a_x	xa xa x
 _x_e_x_e_x	xe xe x
 _x_i_x_i_x	xi xi x
@@ -287,6 +297,7 @@ _x_en_x_en_x	xen xen x
 _x_in_x_in_x	xin xin x
 _x_on_x_on_x	xon xon x
 _x_un_x_un_x	xun xun x
+_x_ax_x_ax_x	xax xax x
 _y_a_y_a_y	ya ya y
 _y_e_y_e_y	ye ye y
 _y_i_y_i_y	yi yi y
@@ -299,6 +310,7 @@ _y_en_y_en_y	yen yen y
 _y_in_y_in_y	yin yin y
 _y_on_y_on_y	yon yon y
 _y_un_y_un_y	yun yun y
+_y_ax_y_ax_y	yax yax y
 _z_a_z_a_z	za za z
 _z_e_z_e_z	ze ze z
 _z_i_z_i_z	zi zi z
@@ -311,3 +323,4 @@ _z_en_z_en_z	zen zen z
 _z_in_z_in_z	zin zin z
 _z_on_z_on_z	zon zon z
 _z_un_z_un_z	zun zun z
+_z_ax_z_ax_z	zax zax z
