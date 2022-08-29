@@ -13,4 +13,4 @@ Programa de gravação recomendado: [OREMO](https://pt.osdn.net/users/nwp8861/pf
 * [CVC M01BR- Amarillis](https://github.com/overdramatic/amarilis-cvc-ptbr)
 
 ## Download
-Você pode fazer o download [clicando aqui](https://github.com/overdramatic/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
+Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
