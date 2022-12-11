@@ -16,4 +16,4 @@ Guia visual de como configurar/otoar: [Wiki](https://github.com/Team-BRAPA/CVC-B
 ## Download
 Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
 
-*Conotação desta reclist contém uma pequena modificação no fonema `x`, podendo ser gravado como `x` ou `hr`, dependendo da preferência ou facilidade do criador de fazer algum desses sons
+*Conotação desta reclist contém uma pequena modificação no fonema `x`, podendo ser gravado como `x` ou `hr` da conotação base, dependendo da preferência ou facilidade do criador de fazer algum desses sons
