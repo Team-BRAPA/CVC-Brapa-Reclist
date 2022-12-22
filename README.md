@@ -10,8 +10,10 @@ Guia visual de como configurar/otoar: [Wiki](https://github.com/Team-BRAPA/CVC-B
 **Lite:** Lista contendo fonemas mínimos para a criação do banco de voz <br/>
 **Full:** Lista contendo fonemas recomendados para a criação do banco de voz <br/>
 
-## Bancos de Voz Públicos
-* [CVC M01BR- Amarillis](https://github.com/overdramatic/amarilis-cvc-ptbr)
+## Bancos de Voz
+* Amarillis- [Google Drive](https://drive.google.com/file/d/1xafz9cXMxGZi8pkaYdfkztdJp4Oemojq/view) / [Github](https://github.com/overdramatic/amarilis-cvc-ptbr) (somente gravações)
+* Golden - [Google Drive](https://drive.google.com/file/d/17DZSSt7uMZEN30UJwqHviG9mKB56YnBN/view)
+* Rodro -  [Google Drive](https://drive.google.com/file/d/1JUQ0GUI_9fmDwapyMDLSgLteTdI9aS3U/view)
 
 ## Download
 Você pode fazer o download [clicando aqui](https://github.com/Team-BRAPA/CVC-PTBR-Reclist/archive/refs/heads/main.zip "Reclist")
